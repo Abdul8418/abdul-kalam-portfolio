@@ -1,0 +1,9 @@
+OrderID,Month,Category,Product,Sales,Profit
+101,Jan,Electronics,Laptop,45000,7000
+102,Jan,Accessories,Mouse,500,150
+103,Feb,Electronics,Phone,20000,3500
+104,Feb,Accessories,Keyboard,1200,300
+105,Mar,Electronics,Laptop,45000,8000
+106,Mar,Accessories,Headphones,3000,900
+107,Apr,Electronics,Phone,22000,4000
+108,Apr,Accessories,Mouse,1000,250

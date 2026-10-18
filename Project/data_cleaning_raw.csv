@@ -1,0 +1,9 @@
+CustomerID,CustomerName,City,Age,PurchaseAmount
+1,Aman,Pune,24,2500
+2,Priya,Mumbai,29,4000
+3,Rahul,Pune,,1800
+4,Neha,Delhi,31,3000
+5,Aman,Pune,24,2500
+6,Sameer,Mumbai,27,
+7,Priya,Mumbai,29,4000
+8,Anita,Delhi,35,5200

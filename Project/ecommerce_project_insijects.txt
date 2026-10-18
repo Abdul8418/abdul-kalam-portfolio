@@ -1,0 +1,30 @@
+E-Commerce Sales Analysis — Project Insights
+
+Project Overview
+
+Analyzed 8 sample e-commerce orders using MySQL to understand revenue, customer spending, product performance, and category-wise sales.
+
+Tools Used
+
+- MySQL
+- SQL Aggregations
+- GROUP BY and ORDER BY
+- Date Functions
+
+Key Findings
+
+1. Total revenue: ₹136,700.
+2. Total orders: 8.
+3. Average order value: ₹17,087.50.
+4. Electronics generated ₹130,000 in sales.
+5. Accessories generated ₹6,700 in sales.
+6. Laptop generated the highest product revenue at ₹90,000.
+7. Aman was the highest-spending customer at ₹48,000.
+
+Business Recommendation
+
+Electronics generated most of the revenue in this sample. The business could review electronics inventory and monitor product demand. More order history would be needed to confirm long-term trends.
+
+Data Limitation
+
+This project uses only 8 sample orders from January 2026. The findings describe this sample and should not be treated as conclusions about a real business.
